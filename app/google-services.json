@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207465422426",
+    "firebase_url": "https://qwerty-ed5c0.firebaseio.com",
+    "project_id": "qwerty-ed5c0",
+    "storage_bucket": "qwerty-ed5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207465422426:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207465422426-od0t6n51b16r6h2t9se6k89i66nefq82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.firebasestorage",
+            "certificate_hash": "1c39b0867acfe63f6915708cd603f5aa49ae3e82"
+          }
+        },
+        {
+          "client_id": "207465422426-s5922a14k7gue9rilvqpivqf8ie6idtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDugQBrUoxa29pYlCTMv-pv7rl4M-UBCUg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207465422426-s5922a14k7gue9rilvqpivqf8ie6idtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
